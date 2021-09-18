@@ -11,18 +11,14 @@ based in the following procedures that will be followed:
 - Report gets sent to the team, which is handled in a confidential way.
 - Confirm the problem and determine the affected versions.
 - Determine any similar problems, and fix all the found issues.
-- Make an emergency Security issue.
-- Make an announcement encouraging people to update as soon as possible.
+- Release a security fix update, after ensuring everything's right.
+- Make an emergency Security issue, with an announcement encouraging people to update as soon as possible.
 - Document the found issues and steps that were provided in the report.
 
 ---
 
-If you find a security vulnerability, please follow any of the specified methods:
-
-- Send us your report to <security@cryb.app>.
-- On Discord, send a private message to `JeDaYoshi#7942`.
-
-Preferably, use PGP encryption with [this PGP key](https://jeda.im/pgp.asc) (public key `8060B288C274219D`).
+If you find a security vulnerability, please send us your report to <security@cryb.app>. Preferably, use PGP
+encryption with [this PGP key](https://jeda.im/pgp.asc) (public key `8060B288C274219D`).
 
 Please include all steps to reproduce in your report, and any hints which can help us identify the issue if possible.
 

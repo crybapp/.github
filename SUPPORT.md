@@ -4,4 +4,5 @@ Thanks for your interest in Cryb! If you have any issues, you have two ways of g
 
 - Join [our Discord server](https://discord.gg/xdhEgD5). For general support, use the `#support` channel,
   and for technical support, use the `#tech-support` channel. Both the team and the community will be able to help.
+- Join [the IRC channel](https://web.libera.chat/#cryb) on `#cryb @ irc.libera.chat`.
 - Send an e-mail message to <hello@cryb.app>. You will be attended by the team in a private manner.

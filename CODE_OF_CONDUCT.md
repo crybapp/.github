@@ -3,7 +3,7 @@
 Cryb is dedicated to providing a harassment-free experience for everyone.
 We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all Cryb spaces, including Cryb repositories, both online and off.
+This code of conduct applies to all Cryb spaces, including Cryb repositories, both online and offline.
 Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of Cryb.
 
 Some Cryb spaces may have additional rules in place, which will be made clearly available to participants.
@@ -14,9 +14,9 @@ Participants are responsible for knowing and abiding by these rules.
 Harassment includes:
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability,
-mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
+  mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
 * Unwelcome comments regarding a person’s lifestyle choices and practices,
-including those related to food, health, parenting, drugs, and employment.
+  including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of ‘dead’ or rejected names.
 * Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate.
 * Physical contact and simulated physical contact (eg, textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop.
@@ -35,7 +35,6 @@ including those related to food, health, parenting, drugs, and employment.
 Cryb prioritizes marginalized people’s safety over privileged people’s comfort. Cryb reserves the right not to act on complaints regarding:
 
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’.
-Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
 * Communicating in a ‘tone’ you don’t find congenial.
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
